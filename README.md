@@ -2,8 +2,7 @@
 
 A cozy, pastel-colored arcade space shooter. Pilot a strawberry-shaped ship, auto-blast through a galaxy of cute "crumb" enemies, dodge their sparks, and chase a high score — all in a single self-contained HTML file.
 
-<!-- Add a screenshot or short GIF of gameplay here, e.g. -->
-<!-- ![Strawberry Nova gameplay](docs/screenshot.png) -->
+<img width="679" height="774" alt="image" src="https://github.com/user-attachments/assets/fe1fdcff-1dd8-452b-9189-b8cd714e34c1" />
 
 ## ✨ Features
 
@@ -38,18 +37,15 @@ Dodge the crumb enemies and their projectiles, grab the milk-drop power-up when 
 ### Play locally
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/strawbkvma/strawberry-nova.git
+cd strawberry-nova
 ```
 
 Then just open `strawberry_nova.html` in any modern browser. No server or build step needed.
 
 ### Play online with GitHub Pages
 
-1. Push this repo to GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Source**, select the `main` branch and the `/ (root)` folder.
-4. Your game will be live at:
+The game is live at:
 
    ```
    https://<your-username>.github.io/<your-repo>/strawberry_nova.html
@@ -82,4 +78,4 @@ Released under the [MIT License](LICENSE) — free to use, modify, and share.
 
 ## 🙏 Credits
 
-Built by **[your name / Strawbkvma]** 🍓
+Built by **[Nana / Strawbkvma]** 🍓
