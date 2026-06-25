@@ -1,4 +1,4 @@
-# 🍓 Strawberry Nova
+# [🍓 Strawberry Nova](https://strawbkvma.github.io/strawberry-nova/strawberry-nova.html)
 
 A cozy, pastel-colored arcade space shooter. Pilot a strawberry-shaped ship, auto-blast through a galaxy of cute "crumb" enemies, dodge their sparks, and chase a high score — all in a single self-contained HTML file.
 
@@ -45,19 +45,14 @@ Then just open `strawberry_nova.html` in any modern browser. No server or build 
 
 ### Play online with GitHub Pages
 
-The game is live at:
-
-   ```
-   https://<your-username>.github.io/<your-repo>/strawberry_nova.html
-   ```
+Or you can play the game now in [here](https://strawbkvma.github.io/strawberry-nova/strawberry-nova.html)!
 
 ## 📁 Project Structure
 
 ```
 .
 ├── strawberry_nova.html   # entire game: markup, styles, and game logic
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ## 🎨 Customization
@@ -74,7 +69,7 @@ Most of the tunable bits live near the top of the `<script>` block in `strawberr
 
 ## 📄 License
 
-Released under the [MIT License](LICENSE) — free to use, modify, and share.
+Free to use, modify, and share.
 
 ## 🙏 Credits
 
