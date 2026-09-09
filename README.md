@@ -1,6 +1,6 @@
 # [🍓 Strawberry Nova](https://strawbkvma.github.io/strawberry-nova/strawberry-nova.html)
 
-A cozy, pastel-colored arcade space shooter. Pilot a strawberry-shaped ship, auto-blast through a galaxy of cute "crumb" enemies, dodge their sparks, and chase a high score — all in a single self-contained HTML file.
+I made a really RANDOM cute simple pastel-colored arcade space shooter. Pilot a strawberry-shaped ship, auto-blast through a galaxy of cute "crumb" enemies, dodge their sparks, and chase a high score — all in a single self-contained HTML file.
 
 <img width="679" height="774" alt="image" src="https://github.com/user-attachments/assets/fe1fdcff-1dd8-452b-9189-b8cd714e34c1" />
 
@@ -71,6 +71,6 @@ Most of the tunable bits live near the top of the `<script>` block in `strawberr
 
 Free to use, modify, and share.
 
-## 🙏 Credits
+## 👩🏻‍💻 Credits
 
-Built by **[Nana / Strawbkvma]** 🍓
+Built by **[Nana / Strawbkvma]** 🧸🍓
