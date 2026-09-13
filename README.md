@@ -70,7 +70,7 @@ No server, package manager, or build step is required.
 
 You can also play Strawberry Nova through GitHub Pages:
 
-[Play Strawberry Nova 🍓](https://strawbkvma.github.io/strawberry-nova/strawberry-nova.html)
+[Strawberry Nova](https://strawbkvma.github.io/strawberry-nova/strawberry-nova.html)
 
 That's it. 🍓🚀✨
 
