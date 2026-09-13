@@ -1,4 +1,4 @@
-# Strawberry Nova 🍓🚀
+# [Strawberry Nova](https://strawbkvma.github.io/strawberry-nova/strawberry-nova.html) 🍓🚀
 
 > A cute pastel arcade space shooter built as a single self-contained HTML game.
 
@@ -70,7 +70,7 @@ No server, package manager, or build step is required.
 
 You can also play Strawberry Nova through GitHub Pages:
 
-[🍓 Play Strawberry Nova](https://strawbkvma.github.io/strawberry-nova/strawberry-nova.html)
+[Play Strawberry Nova 🍓](https://strawbkvma.github.io/strawberry-nova/strawberry-nova.html)
 
 That's it. 🍓🚀✨
 
